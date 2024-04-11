@@ -5,34 +5,77 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b34b0648-ec7b-4b12-948c-aac71c682bb1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../GP_heteroscedastic/elpd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP_heteroscedastic/prior_vs_posterior.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP_heteroscedastic/variance_vals/max_vals_0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GP_heteroscedastic/variance_vals/mean_vals_0.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GP_heteroscedastic/GP_elpd.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GP_heteroscedastic/GP_elpd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GP_heteroscedastic/GP_heteroscedastic.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GP_heteroscedastic/GP_heteroscedastic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GP_heteroscedastic/X_train.npy" beforeDir="false" afterPath="$PROJECT_DIR$/../GP_heteroscedastic/X_train.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GP_heteroscedastic/Y_train.npy" beforeDir="false" afterPath="$PROJECT_DIR$/../GP_heteroscedastic/Y_train.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GP_heteroscedastic/loocv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GP_heteroscedastic/loocv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GP_heteroscedastic/material_data/gpr_inputs_25_200_PC20.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../GP_heteroscedastic/material_data/gpr_inputs_25_200_PC20.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GP_heteroscedastic/material_data/gpr_inputs_seed_1_25_1000_lhs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../GP_heteroscedastic/material_data/gpr_inputs_seed_1_25_1000_lhs.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GP_heteroscedastic/plot_results.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GP_heteroscedastic/plot_results.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GP_heteroscedastic/priors.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../GP_heteroscedastic/priors.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GP_heteroscedastic/run_HGP_material_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../GP_heteroscedastic/run_HGP_material_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GP_heteroscedastic/run_elpd_material_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../GP_heteroscedastic/run_elpd_material_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GP_heteroscedastic/run_heterogeneous_GP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../GP_heteroscedastic/run_heterogeneous_GP.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GP_heteroscedastic/run_heterogeneous_GP_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../GP_heteroscedastic/run_heterogeneous_GP_test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GP_heteroscedastic/run_loocv.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../GP_heteroscedastic/run_loocv.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GP_heteroscedastic/variance_vals/max_vals_3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../GP_heteroscedastic/variance_vals/max_vals_3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GP_heteroscedastic/variance_vals/mean_vals_3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../GP_heteroscedastic/variance_vals/mean_vals_3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GP_homoscedastic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GP_homoscedastic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GP_library_implementation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GP_library_implementation.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GP_manual_implementation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GP_manual_implementation.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/manual_mu.npy" beforeDir="false" afterPath="$PROJECT_DIR$/manual_mu.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manual_var.npy" beforeDir="false" afterPath="$PROJECT_DIR$/manual_var.npy" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../GP_heteroscedastic" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2YsI2jcgInGw7eZlLfz2tOHxxoi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/ozgeozbayram/Desktop/GP_homoscedastic"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ozgeozbayram/Desktop/GP_homoscedastic&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-df623cec81eb-c6172f9078bd-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-233.15026.16" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
 </project>
